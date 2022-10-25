@@ -1,5 +1,4 @@
 # Balloon-Popping-Game
-Game Scripts
 ![1](https://user-images.githubusercontent.com/110778114/197854117-6730bb6c-2e06-4c10-bca7-4e8fad42d122.png)
 ![2](https://user-images.githubusercontent.com/110778114/197854122-72b39827-f321-4db7-be80-31635fcc534f.png)
 ![3](https://user-images.githubusercontent.com/110778114/197854123-2c23619b-83df-4fe4-8663-6d7be30b82b0.png)
