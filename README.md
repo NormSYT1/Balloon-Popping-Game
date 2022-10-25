@@ -1,7 +1,7 @@
 # Balloon-Popping-Game
-![1](https://user-images.githubusercontent.com/110778114/197854117-6730bb6c-2e06-4c10-bca7-4e8fad42d122.png)
-![2](https://user-images.githubusercontent.com/110778114/197854122-72b39827-f321-4db7-be80-31635fcc534f.png)
-![3](https://user-images.githubusercontent.com/110778114/197854123-2c23619b-83df-4fe4-8663-6d7be30b82b0.png)
-![4](https://user-images.githubusercontent.com/110778114/197854127-d80bd79c-7841-4a74-9bf6-7c835d8640fd.png)
-![5](https://user-images.githubusercontent.com/110778114/197854130-9b7535ae-8a38-4b43-a92e-79427b2705c4.png)
-![6](https://user-images.githubusercontent.com/110778114/197854136-577ba5ca-c9d5-428e-b64f-a6e05d328bc4.png)
+![1](https://user-images.githubusercontent.com/110778114/197855870-792c76e4-880b-4f90-a556-844b1321254a.png)
+![2](https://user-images.githubusercontent.com/110778114/197855880-fe6b9e46-e37a-425a-83f0-dc30aec4a7f4.png)
+![3](https://user-images.githubusercontent.com/110778114/197855888-d8c4084e-a3cf-4709-b91d-c2db3df47218.png)
+![4](https://user-images.githubusercontent.com/110778114/197855894-996eb3ef-7e89-4753-ab60-e190e3250c5b.png)
+![5](https://user-images.githubusercontent.com/110778114/197855901-5a4bc26e-91ff-46fb-b413-4d36b25b985e.png)
+![6](https://user-images.githubusercontent.com/110778114/197855909-2f811faf-5abf-4706-8f88-9a3c49191e3b.png)
