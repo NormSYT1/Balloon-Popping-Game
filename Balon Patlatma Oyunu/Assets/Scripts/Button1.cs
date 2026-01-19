@@ -7,7 +7,7 @@ public class Button1 : MonoBehaviour
 {
     public void Other_Scene()
     {
-        SceneManager.LoadScene("SampleScene");//Oyun sahnesine geç
+        SceneManager.LoadScene("GameScene");//Oyun sahnesine geç
     }
     public void Main_Scene()
     {
@@ -15,7 +15,7 @@ public class Button1 : MonoBehaviour
     }
     public void Quit()
     {
-        //PlayerPrefs.DeleteKey("HighScore");//En yüksek skoru siler
+        PlayerPrefs.DeleteKey("HighScore");//En yüksek skoru siler
         Application.Quit();//Oyunu kapat
     }
 }
