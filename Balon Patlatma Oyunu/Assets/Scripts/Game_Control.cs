@@ -29,7 +29,7 @@ public class Game_Control : MonoBehaviour
         {
             last_text.text = "Game Over";//Oyun bitti yazdýr 
             point_text.text = "Your Score: " + balloon_counter;//Toplam puaný yazdýr
-            if(balloon_counter> PlayerPrefs.GetInt("HighScore"))//Puan en yüksek skordan yüksek ise
+            if (balloon_counter > PlayerPrefs.GetInt("HighScore")) //Puan en yüksek skordan yüksek ise
             {
                 PlayerPrefs.SetInt("HighScore", balloon_counter);//Puaný en yüksek skora ata
             }     
